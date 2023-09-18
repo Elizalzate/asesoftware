@@ -1,0 +1,17 @@
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Repository.deps.json
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Repository.dll
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Repository.pdb
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Core.dll
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Data.dll
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Core.pdb
+D:\Prueba_Asesoftware\API\Repository\bin\Debug\net7.0\Data.pdb
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.dll
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\refint\Repository.dll
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\Repository.pdb
+D:\Prueba_Asesoftware\API\Repository\obj\Debug\net7.0\ref\Repository.dll

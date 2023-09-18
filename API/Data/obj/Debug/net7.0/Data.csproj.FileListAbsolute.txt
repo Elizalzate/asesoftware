@@ -1,0 +1,15 @@
+D:\Prueba_Asesoftware\API\Data\bin\Debug\net7.0\Data.deps.json
+D:\Prueba_Asesoftware\API\Data\bin\Debug\net7.0\Data.dll
+D:\Prueba_Asesoftware\API\Data\bin\Debug\net7.0\Data.pdb
+D:\Prueba_Asesoftware\API\Data\bin\Debug\net7.0\Core.dll
+D:\Prueba_Asesoftware\API\Data\bin\Debug\net7.0\Core.pdb
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.csproj.CopyComplete
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.dll
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\refint\Data.dll
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\Data.pdb
+D:\Prueba_Asesoftware\API\Data\obj\Debug\net7.0\ref\Data.dll
